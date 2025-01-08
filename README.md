@@ -1,5 +1,4 @@
-What Is FetchX ? 
-
+<h1> What Is FetchX ? </h1> 
 FetchX — your overachieving AI-powered search assistant. 🕵️‍♂️
 
 You type a topic, and FetchX sprints across the Internet like it drank 5 cups of coffee ☕, returning with articles, videos, research papers, and news faster than you can say “Where’s that link?”
